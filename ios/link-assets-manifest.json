@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GoudyBookletter1911-Regular.ttf",
+      "sha1": "ff645fda679aba09338f346c52bfee4ce942f112"
+    },
+    {
+      "path": "assets/fonts/JimNightshade-Regular.ttf",
+      "sha1": "3d09892f57603b3cc942bcf625be51685e6f330e"
+    },
+    {
+      "path": "assets/fonts/JuliusSansOne-Regular.ttf",
+      "sha1": "d66ed30f0709dcc4707d1f62158274814e8690b1"
+    },
+    {
+      "path": "assets/fonts/Jura-VariableFont_wght.ttf",
+      "sha1": "4fcc1cd4fbfda22abfbd7776c80d3b72d3bb2ff0"
+    }
+  ]
+}
